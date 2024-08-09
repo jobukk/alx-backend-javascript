@@ -1,3 +1,4 @@
+/*No need to create empty objects before adding in properties*/
 function getCurrentYear() {
     const date = new Date();
     return date.getFullYear();

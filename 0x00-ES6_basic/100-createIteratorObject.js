@@ -1,3 +1,4 @@
+/* Iterating through report objects */
 export default function createIteratorObject(report) {
     // Define a generator function to yield each employee
     function* employeeIterator() {
